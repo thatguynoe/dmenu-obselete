@@ -2,7 +2,7 @@
 
 An almost vanilla build of dmenu.
 
-## Patches and features:
+## Patches and features
 
 * [**password-4.9**](https://tools.suckless.org/dmenu/patches/password/dmenu-password-4.9.diff) hides input with the `-P` flag.
 
