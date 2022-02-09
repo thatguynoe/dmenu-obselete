@@ -1,6 +1,6 @@
 # Noe's build of dmenu
 
-An almost vanilla build of dmenu.
+An almost vanilla build of [dmenu](https://tools.suckless.org/dmenu/).
 
 ## Patches and features
 
