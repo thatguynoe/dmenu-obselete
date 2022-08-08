@@ -1,4 +1,4 @@
-# Noe's build of dmenu
+# dmenu
 
 An almost vanilla build of [dmenu](https://tools.suckless.org/dmenu/). Running on commit [308fe78b83836371720c7d7eb2c3eac409f3cc16](https://git.suckless.org/dmenu/commit/308fe78b83836371720c7d7eb2c3eac409f3cc16.html).
 
