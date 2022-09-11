@@ -16,7 +16,3 @@ git clone https://github.com/thatguynoe/dmenu
 cd dmenu
 sudo make install
 ```
-
-## Please install `libxft-bgra`<sup>`aur`</sup>!
-
-In order for dmenu to display color emojis, the `libxft-bgra`<sup>`aur`</sup> package must be installed---else, dmenu will crash.
