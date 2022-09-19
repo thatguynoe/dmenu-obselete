@@ -1,3 +1,5 @@
+This repo is archived as updating is a pain -- I have applied the advice [listed here](https://dwm.suckless.org/customisation/patches_in_git/) to make updating easier.
+
 # dmenu
 
 An almost vanilla build of [dmenu](https://tools.suckless.org/dmenu/). Running on commit [`308fe78b83836371720c7d7eb2c3eac409f3cc16`](https://git.suckless.org/dmenu/commit/308fe78b83836371720c7d7eb2c3eac409f3cc16.html).
